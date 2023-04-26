@@ -218,6 +218,9 @@
 		position: relative;
 		left:6%;
 	}
+	#testimonials{
+		display: none;
+	}
 
 	.subscribe-section .form-col .inner{
 		padding-top: 0;
@@ -1458,6 +1461,7 @@
 	.hot-single .t-book-widget .fields .form-group{
 		padding-left: 0;
 	}
+
 
 	.similar-section .carousel-box .next-btn,
 	.similar-section .carousel-box .prev-btn{

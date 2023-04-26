@@ -2283,14 +2283,18 @@ body.visible-sidebar{
   max-width: 700px;
   margin: 0 auto 65px;
 }
+.image a img {
+  width: 565px;
+  height: 510px;
+}
 
 .title-box .subtitle{
   position: relative;
-  font-size: 24px;
+  font-size: 15px;
   line-height: 30px;
   text-transform: none;
   /* font-family: 'Reey_Regular', cursive; */
-  font-weight: 400;
+  font-weight: 600;
   color: black;
   margin: 0 0 10px;
 }
