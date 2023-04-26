@@ -17,7 +17,12 @@
 		right: 30px;
 	}
 }
-
+@media (max-width: 767px) {
+	#testimonials {
+	  display: none !important;
+	}
+  }
+  
 @media only screen and (max-width: 1499px){
 	
 	.main-header .auto-container{
@@ -218,9 +223,7 @@
 		position: relative;
 		left:6%;
 	}
-	#testimonials{
-		display: none;
-	}
+	
 
 	.subscribe-section .form-col .inner{
 		padding-top: 0;
