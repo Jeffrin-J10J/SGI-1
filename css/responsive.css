@@ -23,11 +23,11 @@
 		display: none !important;
 	}
 
-	#mobile1 {
+	.mobile1 {
 		display: none !important;
 	}
 
-	#mobile2 {
+	.mobile2 {
 		display: inline-block !important;
 	}
 
@@ -237,7 +237,7 @@
 		padding: 50px 25px;
 		width: 28%;
 		position: relative;
-		left: 1%;
+		left: -1%;
 	}
 
 
