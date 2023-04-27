@@ -18,26 +18,6 @@
 	}
 }
 
-@media (max-width: 767px) {
-	#testimonials {
-		display: none !important;
-	}
-
-	.mobile1 {
-		display: none !important;
-	}
-
-	.mobile2 {
-		display: inline-block !important;
-	}
-
-	#heading {
-		display: inline-block !important;
-		position: relative;
-		left: 5em;
-	}
-}
-
 @media only screen and (max-width: 1499px) {
 
 	.main-header .auto-container {
@@ -235,9 +215,6 @@
 
 	.testi-block-one .inner-box {
 		padding: 50px 25px;
-		width: 28%;
-		position: relative;
-		left: 0%;
 	}
 
 
