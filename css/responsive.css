@@ -21,6 +21,17 @@
 	#testimonials {
 	  display: none !important;
 	}
+	#mobile1{
+		display: none !important;
+	}
+	#mobile2{
+		display: inline-block !important;
+	}
+	#heading{
+		display: inline-block !important;
+		position: relative;
+		left: 5em;
+	}
   }
   
 @media only screen and (max-width: 1499px){
@@ -219,9 +230,9 @@
 
 	.testi-block-one .inner-box{
 		padding: 50px 25px;
-		width:90%;
+		width:28%;
 		position: relative;
-		left:6%;
+		left:1%;
 	}
 	
 

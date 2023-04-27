@@ -6006,6 +6006,9 @@ body.visible-sidebar{
 ====================================================================
 
 ***/
+#mobile2{
+  display: none;
+}
 
 .testimonials-two{
   position: relative;
